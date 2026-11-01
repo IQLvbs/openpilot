@@ -1,0 +1,272 @@
+{
+  "copyright": "Copyright (c) 2026 IQ.Lvbs. All rights reserved.",
+  "iqpilot_sha": "60e922499a32b4ffdcfb32c34fb0821b3dd9a50e",
+  "iqdbc_sha": "3c2715be21b94aff155edce3502295fa4f4e47c4",
+  "fixture_sha256": "3eed9a1cf02be415211a97a4c9a722166c28e1e097479dfb6dd0bc75b8c37d07",
+  "columns": {
+    "pq": [
+      "desired_curvature",
+      "actuators.curvature",
+      "actuators.torque",
+      "actuators.steeringAngleDeg",
+      "actuators.accel",
+      "latActive",
+      "longActive",
+      "sat_time",
+      "active",
+      "actualLateralAccel",
+      "d",
+      "desiredLateralAccel",
+      "desiredLateralJerk",
+      "error",
+      "errorRate",
+      "f",
+      "i",
+      "output",
+      "p",
+      "saturated",
+      "version"
+    ],
+    "torque": [
+      "desired_curvature",
+      "actuators.curvature",
+      "actuators.torque",
+      "actuators.steeringAngleDeg",
+      "actuators.accel",
+      "latActive",
+      "longActive",
+      "sat_time",
+      "active",
+      "actualLateralAccel",
+      "d",
+      "desiredLateralAccel",
+      "desiredLateralJerk",
+      "error",
+      "errorRate",
+      "f",
+      "i",
+      "output",
+      "p",
+      "saturated",
+      "version"
+    ],
+    "tss2": [
+      "desired_curvature",
+      "actuators.curvature",
+      "actuators.torque",
+      "actuators.steeringAngleDeg",
+      "actuators.accel",
+      "latActive",
+      "longActive",
+      "sat_time",
+      "active",
+      "actualLateralAccel",
+      "d",
+      "desiredLateralAccel",
+      "desiredLateralJerk",
+      "error",
+      "errorRate",
+      "f",
+      "i",
+      "output",
+      "p",
+      "saturated",
+      "version"
+    ],
+    "gm": [
+      "desired_curvature",
+      "actuators.curvature",
+      "actuators.torque",
+      "actuators.steeringAngleDeg",
+      "actuators.accel",
+      "latActive",
+      "longActive",
+      "sat_time",
+      "active",
+      "actualLateralAccel",
+      "d",
+      "desiredLateralAccel",
+      "desiredLateralJerk",
+      "error",
+      "errorRate",
+      "f",
+      "i",
+      "output",
+      "p",
+      "saturated",
+      "version"
+    ],
+    "angle": [
+      "desired_curvature",
+      "actuators.curvature",
+      "actuators.torque",
+      "actuators.steeringAngleDeg",
+      "actuators.accel",
+      "latActive",
+      "longActive",
+      "sat_time",
+      "active",
+      "output",
+      "saturated",
+      "steeringAngleDeg",
+      "steeringAngleDesiredDeg"
+    ],
+    "curvature": [
+      "desired_curvature",
+      "actuators.curvature",
+      "actuators.torque",
+      "actuators.steeringAngleDeg",
+      "actuators.accel",
+      "latActive",
+      "longActive",
+      "sat_time",
+      "active",
+      "output",
+      "saturated",
+      "steeringAngleDeg",
+      "steeringAngleDesiredDeg"
+    ],
+    "mqb_v0": [
+      "desired_curvature",
+      "actuators.curvature",
+      "actuators.torque",
+      "actuators.steeringAngleDeg",
+      "actuators.accel",
+      "latActive",
+      "longActive",
+      "sat_time",
+      "active",
+      "actualLateralAccel",
+      "d",
+      "desiredLateralAccel",
+      "desiredLateralJerk",
+      "error",
+      "errorRate",
+      "f",
+      "i",
+      "output",
+      "p",
+      "saturated",
+      "version"
+    ],
+    "pid": [
+      "desired_curvature",
+      "actuators.curvature",
+      "actuators.torque",
+      "actuators.steeringAngleDeg",
+      "actuators.accel",
+      "latActive",
+      "longActive",
+      "sat_time",
+      "active",
+      "angleError",
+      "f",
+      "i",
+      "output",
+      "p",
+      "saturated",
+      "steeringAngleDeg",
+      "steeringAngleDesiredDeg",
+      "steeringRateDeg"
+    ]
+  },
+  "scenarios": {
+    "pq_slew0_smooth0": [
+      360,
+      21
+    ],
+    "pq_slew1_smooth0": [
+      360,
+      21
+    ],
+    "torque_slew0_smooth0": [
+      360,
+      21
+    ],
+    "torque_slew1_smooth0": [
+      360,
+      21
+    ],
+    "tss2_slew0_smooth0": [
+      360,
+      21
+    ],
+    "tss2_slew1_smooth0": [
+      360,
+      21
+    ],
+    "gm_slew0_smooth0": [
+      360,
+      21
+    ],
+    "gm_slew1_smooth0": [
+      360,
+      21
+    ],
+    "angle_slew0_smooth0": [
+      360,
+      13
+    ],
+    "angle_slew1_smooth0": [
+      360,
+      13
+    ],
+    "curvature_slew0_smooth0": [
+      360,
+      13
+    ],
+    "curvature_slew0_smooth1": [
+      360,
+      13
+    ],
+    "curvature_slew1_smooth0": [
+      360,
+      13
+    ],
+    "curvature_slew1_smooth1": [
+      360,
+      13
+    ],
+    "mqb_v0_slew0_smooth0": [
+      360,
+      21
+    ],
+    "mqb_v0_slew1_smooth0": [
+      360,
+      21
+    ],
+    "pid_slew0_smooth0": [
+      360,
+      18
+    ],
+    "pid_slew1_smooth0": [
+      360,
+      18
+    ],
+    "torque_slew0_nnff": [
+      360,
+      21
+    ],
+    "torque_slew1_nnff": [
+      360,
+      21
+    ],
+    "tss2_slew0_nnff": [
+      360,
+      21
+    ],
+    "tss2_slew1_nnff": [
+      360,
+      21
+    ],
+    "gm_slew0_nnff": [
+      360,
+      21
+    ],
+    "gm_slew1_nnff": [
+      360,
+      21
+    ]
+  },
+  "nnff_baseline_method": "Original controller loaded from the pinned IQ.Pilot revision; identical toggle-off controls pipeline; deterministic test network."
+}

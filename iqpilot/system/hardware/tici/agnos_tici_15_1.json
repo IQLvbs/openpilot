@@ -1,0 +1,80 @@
+[
+  {
+    "name": "xbl",
+    "url": "https://git.konn3kt.com/IQ.Lvbs/iqos/raw/branch/master/xbl-dd45c0febdf0e022dab82ed0219370a86e8e6c0dfabfe29f3dab7eb1174d6bc6.img.xz",
+    "hash": "dd45c0febdf0e022dab82ed0219370a86e8e6c0dfabfe29f3dab7eb1174d6bc6",
+    "hash_raw": "dd45c0febdf0e022dab82ed0219370a86e8e6c0dfabfe29f3dab7eb1174d6bc6",
+    "size": 3282256,
+    "sparse": false,
+    "full_check": true,
+    "has_ab": true,
+    "ondevice_hash": "d47a08914d2376557b03f1231b7233508222c04b57d781f9daf77c63eab92c2e"
+  },
+  {
+    "name": "xbl_config",
+    "url": "https://git.konn3kt.com/IQ.Lvbs/iqos/raw/branch/master/xbl_config-1074ae051df159ba6dba988d8f6ba2cfc304ed1466cce0db531df6f7b1e44aa9.img.xz",
+    "hash": "1074ae051df159ba6dba988d8f6ba2cfc304ed1466cce0db531df6f7b1e44aa9",
+    "hash_raw": "1074ae051df159ba6dba988d8f6ba2cfc304ed1466cce0db531df6f7b1e44aa9",
+    "size": 98124,
+    "sparse": false,
+    "full_check": true,
+    "has_ab": true,
+    "ondevice_hash": "e7d04d9f040c9c040cdf013335d0b6d6e9346311458baeb2461b193e954f5f1c"
+  },
+  {
+    "name": "abl",
+    "url": "https://git.konn3kt.com/IQ.Lvbs/iqos/raw/branch/master/abl-32a2174b5f764e95dfc54cf358ba01752943b1b3b90e626149c3da7d5f1830b6.img.xz",
+    "hash": "32a2174b5f764e95dfc54cf358ba01752943b1b3b90e626149c3da7d5f1830b6",
+    "hash_raw": "32a2174b5f764e95dfc54cf358ba01752943b1b3b90e626149c3da7d5f1830b6",
+    "size": 274432,
+    "sparse": false,
+    "full_check": true,
+    "has_ab": true,
+    "ondevice_hash": "32a2174b5f764e95dfc54cf358ba01752943b1b3b90e626149c3da7d5f1830b6"
+  },
+  {
+    "name": "aop",
+    "url": "https://git.konn3kt.com/IQ.Lvbs/iqos/raw/branch/master/aop-4d925c9248672e4a69a236991983375008c44997a854ee7846d1b5fd7c787788.img.xz",
+    "hash": "4d925c9248672e4a69a236991983375008c44997a854ee7846d1b5fd7c787788",
+    "hash_raw": "4d925c9248672e4a69a236991983375008c44997a854ee7846d1b5fd7c787788",
+    "size": 184364,
+    "sparse": false,
+    "full_check": true,
+    "has_ab": true,
+    "ondevice_hash": "3aa0a79149ec57f4bc8c38f7bbdf4f6630dd659e49a111ce6258d2d06a07c8e5"
+  },
+  {
+    "name": "devcfg",
+    "url": "https://git.konn3kt.com/IQ.Lvbs/iqos/raw/branch/master/devcfg-2f374581243910db92f62bb13bd66ec8e3d56d434997ba007ded06d2d6cc8585.img.xz",
+    "hash": "2f374581243910db92f62bb13bd66ec8e3d56d434997ba007ded06d2d6cc8585",
+    "hash_raw": "2f374581243910db92f62bb13bd66ec8e3d56d434997ba007ded06d2d6cc8585",
+    "size": 40336,
+    "sparse": false,
+    "full_check": true,
+    "has_ab": true,
+    "ondevice_hash": "3d7bb33588491a2a40091a7e1cf6cb65e6dd503f69b640aba484d723f1ad47e8"
+  },
+  {
+    "name": "boot",
+    "url": "https://git.konn3kt.com/IQ.Lvbs/iqos/raw/branch/master/boot-d3ff3e5cb1f864fe73f37e2e479687bf3788658835591cf2bea2dc419dc6e256.img.xz",
+    "hash": "d3ff3e5cb1f864fe73f37e2e479687bf3788658835591cf2bea2dc419dc6e256",
+    "hash_raw": "d3ff3e5cb1f864fe73f37e2e479687bf3788658835591cf2bea2dc419dc6e256",
+    "size": 18487296,
+    "sparse": false,
+    "full_check": true,
+    "has_ab": true,
+    "ondevice_hash": "fb4eb99ff20d9bf3fc7b1a0a80cfa3aa2d849f089ff0e48ccf54af0be8a993c8"
+  },
+  {
+    "name": "system",
+    "url": "https://git.konn3kt.com/IQ.Lvbs/iqos/raw/branch/master/system-1e59890f8ca5e6d2b4a5744aa166098a59a81548b9c1ce90839472a6803a748d.img.xz",
+    "hash": "1e59890f8ca5e6d2b4a5744aa166098a59a81548b9c1ce90839472a6803a748d",
+    "hash_raw": "1e59890f8ca5e6d2b4a5744aa166098a59a81548b9c1ce90839472a6803a748d",
+    "size": 6291456000,
+    "sparse": false,
+    "full_check": false,
+    "has_ab": true,
+    "ondevice_hash": "1e59890f8ca5e6d2b4a5744aa166098a59a81548b9c1ce90839472a6803a748d",
+    "url_parts": 10
+  }
+]

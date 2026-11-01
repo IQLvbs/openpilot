@@ -1,0 +1,70 @@
+{
+  "bundle_version": 1792268600,
+  "python/_iqclosure/_vendored.json": {
+    "mode": 420,
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "size": 3
+  },
+  "python/iqpilot_private/__init__.py": {
+    "mode": 420,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0
+  },
+  "python/iqpilot_private/navassist/__init__.py": {
+    "mode": 420,
+    "sha256": "ee4237375e199e74a35b5c1851f32eec3d0799966b7f1211c86ce00a0f756088",
+    "size": 112
+  },
+  "python/iqpilot_private/navassist/_cipher.cpython-312-aarch64-linux-gnu.so": {
+    "mode": 416,
+    "sha256": "e6b8cdc774506ce0f3b416111fd9522a22f488286b5449d121936ccf682412c7",
+    "size": 1064536
+  },
+  "python/iqpilot_private/navassist/appsetup.cpython-312-aarch64-linux-gnu.so": {
+    "mode": 416,
+    "sha256": "7483113a98a51a567f1d5487f8fd6d9fa3f0652f1fc8b5b8be2d2a0f3f17d1eb",
+    "size": 1064568
+  },
+  "python/iqpilot_private/navassist/assets.cpython-312-aarch64-linux-gnu.so": {
+    "mode": 416,
+    "sha256": "2168c0e7d825a4c9b5fde5b353c5097f95ac8ece2b42d632527849e66c1e0cd0",
+    "size": 1064616
+  },
+  "python/iqpilot_private/navassist/container.cpython-312-aarch64-linux-gnu.so": {
+    "mode": 416,
+    "sha256": "519d14e719328449cf673607b790a88a356d025fac01d162cb0b53398ba02d49",
+    "size": 1130072
+  },
+  "python/iqpilot_private/navassist/daemon.cpython-312-aarch64-linux-gnu.so": {
+    "mode": 416,
+    "sha256": "594cb881a71598e8d96e0152df4c71be09ceb037a37a6498723853293c5ab5a3",
+    "size": 1130168
+  },
+  "python/iqpilot_private/navassist/guard.cpython-312-aarch64-linux-gnu.so": {
+    "mode": 416,
+    "sha256": "4d2c0fa7dcf9a77dc8998b508683098c48c786a276957e07e296510ff7df9d5c",
+    "size": 1130232
+  },
+  "python/iqpilot_private/navassist/paths.cpython-312-aarch64-linux-gnu.so": {
+    "mode": 416,
+    "sha256": "422b9bb95559bf6732e31d82a8b3bf435a9bd7bd917788ec0e2654b865205310",
+    "size": 999096
+  },
+  "runtime": {
+    "entries": {
+      "iqpilot_private.navassist.daemon": {
+        "path": "python/iqpilot_private/navassist/daemon.cpython-312-aarch64-linux-gnu.so",
+        "type": "python-module"
+      }
+    }
+  },
+  "signatures": {
+    "python/iqpilot_private/navassist/_cipher.cpython-312-aarch64-linux-gnu.so": "z/ruMHSCKDVJTNgbP41sdxyIEu/SZSJYnAziOqY93F/SeO9q48/pN27QgCvEd6WusKuPmpmFqfWgkwY9zTqfCw==",
+    "python/iqpilot_private/navassist/appsetup.cpython-312-aarch64-linux-gnu.so": "n2ZFnpKhJd5hz0XE1j4SjuTHcloy5ypK3Q5XHyhvFAtcqgzgywInzv+mem+saG12zIvX4tqh3s1Tks+uhMy/CA==",
+    "python/iqpilot_private/navassist/assets.cpython-312-aarch64-linux-gnu.so": "XMYEFgSlBmBJtNkBRKJ4BsoIHpnGeRRjjsPIAHd/+8rcwrhlx9waFZ3LSBy44PfA28HlR/c3WWtIr9fkzfGNCw==",
+    "python/iqpilot_private/navassist/container.cpython-312-aarch64-linux-gnu.so": "5owuYV1oSSdF4PNIWHmcWAzdg84TY8jXuxqNYAlROYGnA9VUS7g3dSot8x5vanjYUg2ZmKsjl1/AZAWpbZMjDA==",
+    "python/iqpilot_private/navassist/daemon.cpython-312-aarch64-linux-gnu.so": "YEM143l5lVV6gQQaM2n9r8FN2ex6ycgXrcrugtmh1hvfZTYcZcWqN8zUID0+czrSmW1w61RMlgbRVRKv8OfFAA==",
+    "python/iqpilot_private/navassist/guard.cpython-312-aarch64-linux-gnu.so": "g6nnT1AgmvvZ7FrJ8jq0mpORaGwE4SursrT5D26I/C/vgIen1iXg4REKNAlAoZ/4T6O6eeLV7bqbAMKMl3X2AA==",
+    "python/iqpilot_private/navassist/paths.cpython-312-aarch64-linux-gnu.so": "64eeb2HJCNvxBD3Ii2BtDKX2TuUPWUjcXxNq3Yy7zJri6KseSINCKxUupVCiBNn1aN5LZgDJ5tSHWsKm8PGGAA=="
+  }
+}

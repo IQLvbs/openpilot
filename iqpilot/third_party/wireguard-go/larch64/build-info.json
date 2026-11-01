@@ -1,0 +1,9 @@
+{
+  "source_repository": "https://git.zx2c4.com/wireguard-go",
+  "source_tag": "0.0.20250522",
+  "source_commit": "f333402bd9cbe0f3eeb02507bd14e23d7d639280",
+  "target": "linux/arm64",
+  "compiler": "go1.26.5",
+  "build_command": "CGO_ENABLED=0 GOOS=linux GOARCH=arm64 go build -trimpath -ldflags=\"-s -w -buildid=\" -o wireguard-go .",
+  "binary_sha256": "91701a1d5d701a0de4f16ca7e296cd8f770d2b2de6466a532f2d7f0dfb57ccd4"
+}

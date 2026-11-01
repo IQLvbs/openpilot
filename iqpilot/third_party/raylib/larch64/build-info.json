@@ -1,0 +1,9 @@
+{
+  "source_repository": "https://gitlvb.teallvbs.xyz/teal/iqraylib",
+  "source_commit": "f1fa30219bcfe3f0ac6951dbf57ca8afe54edd39",
+  "upstream_base": "3425bd9d1fb292ede4d80f97a1f4f258f614cffc",
+  "platform": "PLATFORM_COMMA",
+  "compiler": "gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0",
+  "build_command": "make -j2 PLATFORM=PLATFORM_COMMA",
+  "archive_sha256": "f941f2baf226f7f44704c5535b534a90cad506b218007293df84b185fbee8058"
+}

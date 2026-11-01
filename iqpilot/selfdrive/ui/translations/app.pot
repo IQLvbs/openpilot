@@ -1,0 +1,4128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-09 21:05-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: system/ui/iqwidgets/widgets/list_view.py:1016
+#: openpilot/selfdrive/ui/layouts/nav.py:299
+#: openpilot/selfdrive/ui/layouts/nav.py:535
+#, python-brace-format
+msgid "Search"
+msgstr ""
+
+#: system/ui/iqwidgets/widgets/list_view.py:1021
+#, python-brace-format
+msgid "Type to search"
+msgstr ""
+
+#: system/ui/widgets/list_view.py:126 system/ui/widgets/list_view.py:171
+#, python-brace-format
+msgid "Error"
+msgstr ""
+
+#: system/ui/widgets/confirm_dialog.py:35 system/ui/widgets/option_dialog.py:61
+#: system/ui/widgets/esim.py:136 system/ui/widgets/esim.py:206
+#: system/ui/widgets/esim.py:217 system/ui/widgets/esim.py:230
+#: system/ui/widgets/network.py:380 system/ui/widgets/keyboard.py:92
+#: iqpilot/ui/layouts/settings/iq_panels.py:1715
+#, python-brace-format
+msgid "Cancel"
+msgstr ""
+
+#: system/ui/widgets/confirm_dialog.py:113 system/ui/widgets/html_render.py:266
+#: openpilot/selfdrive/ui/layouts/sidebar.py:157
+#: openpilot/selfdrive/ui/layouts/home.py:646
+#, python-brace-format
+msgid "OK"
+msgstr ""
+
+#: system/ui/widgets/option_dialog.py:62
+#, python-brace-format
+msgid "Select"
+msgstr ""
+
+#: system/ui/widgets/esim.py:56
+#, python-brace-format
+msgid "Status"
+msgstr ""
+
+#: system/ui/widgets/esim.py:58
+#, python-brace-format
+msgid "Refresh Profiles"
+msgstr ""
+
+#: system/ui/widgets/esim.py:59 iqpilot/ui/layouts/settings/iq_panels.py:1705
+#, python-brace-format
+msgid "REFRESH"
+msgstr ""
+
+#: system/ui/widgets/esim.py:64
+#, python-brace-format
+msgid "Add Profile"
+msgstr ""
+
+#: system/ui/widgets/esim.py:65 openpilot/selfdrive/ui/widgets/ssh_key.py:96
+#, python-brace-format
+msgid "ADD"
+msgstr ""
+
+#: system/ui/widgets/esim.py:66
+#, python-brace-format
+msgid "Scan QR or enter activation code"
+msgstr ""
+
+#: system/ui/widgets/esim.py:80
+#, python-brace-format
+msgid "Unknown provider"
+msgstr ""
+
+#: system/ui/widgets/esim.py:82
+#, python-brace-format
+msgid "ACTIVE"
+msgstr ""
+
+#: system/ui/widgets/esim.py:82
+#, python-brace-format
+msgid "USE"
+msgstr ""
+
+#: system/ui/widgets/esim.py:95
+#, python-brace-format
+msgid "Scan QR"
+msgstr ""
+
+#: system/ui/widgets/esim.py:95
+#, python-brace-format
+msgid "Enter Code"
+msgstr ""
+
+#: system/ui/widgets/esim.py:96
+#, python-brace-format
+msgid "Add eSIM Profile"
+msgstr ""
+
+#: system/ui/widgets/esim.py:123
+#, python-brace-format
+msgid "Enter Activation Code"
+msgstr ""
+
+#: system/ui/widgets/esim.py:123
+#, python-brace-format
+msgid "format: LPA:1$...$..."
+msgstr ""
+
+#: system/ui/widgets/esim.py:136 system/ui/widgets/esim.py:217
+#, python-brace-format
+msgid "Continue"
+msgstr ""
+
+#: system/ui/widgets/esim.py:138
+#, python-brace-format
+msgid ""
+"Use activation code:\n"
+"{}"
+msgstr ""
+
+#: system/ui/widgets/esim.py:150
+#, python-brace-format
+msgid "Optional Nickname"
+msgstr ""
+
+#: system/ui/widgets/esim.py:150
+#, python-brace-format
+msgid "leave blank to skip"
+msgstr ""
+
+#: system/ui/widgets/esim.py:164 system/ui/widgets/esim.py:180
+#, python-brace-format
+msgid "Activate"
+msgstr ""
+
+#: system/ui/widgets/esim.py:165 system/ui/widgets/esim.py:182
+#, python-brace-format
+msgid "Rename"
+msgstr ""
+
+#: system/ui/widgets/esim.py:167 system/ui/widgets/esim.py:184
+#, python-brace-format
+msgid "Remove Comma pSIM"
+msgstr ""
+
+#: system/ui/widgets/esim.py:169 system/ui/widgets/esim.py:186
+#: system/ui/widgets/esim.py:206
+#, python-brace-format
+msgid "Delete"
+msgstr ""
+
+#: system/ui/widgets/esim.py:174
+#, python-brace-format
+msgid "Profile Actions"
+msgstr ""
+
+#: system/ui/widgets/esim.py:193
+#, python-brace-format
+msgid "Rename Profile"
+msgstr ""
+
+#: system/ui/widgets/esim.py:207
+#, python-brace-format
+msgid "Delete disabled profile \"{}\"?"
+msgstr ""
+
+#: system/ui/widgets/esim.py:219
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:160
+#, python-brace-format
+msgid "This will permanently wipe the Comma pSIM profile from the SIM."
+msgstr ""
+
+#: system/ui/widgets/esim.py:230
+#, python-brace-format
+msgid "Remove"
+msgstr ""
+
+#: system/ui/widgets/esim.py:232
+#, python-brace-format
+msgid ""
+"After this, you must use your own eSIM profile.\n"
+"\n"
+"You cannot use Comma Prime again unless you buy a new SIM from comma."
+msgstr ""
+
+#: system/ui/widgets/esim.py:245
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:187
+#, python-brace-format
+msgid ""
+"Insert the original comma SIM card that came with the device to use eSIM"
+msgstr ""
+
+#: system/ui/widgets/network.py:96
+#: openpilot/selfdrive/ui/layouts/onboarding.py:148
+#: iqpilot/ui/layouts/settings/iq_panels.py:632
+#: iqpilot/ui/layouts/settings/iq_panels.py:706
+#: iqpilot/ui/layouts/settings/iq_panels.py:1450
+#: iqpilot/ui/layouts/settings/iq_dynamic.py:62
+#, python-brace-format
+msgid "Back"
+msgstr ""
+
+#: system/ui/widgets/network.py:98
+#, python-brace-format
+msgid "Advanced"
+msgstr ""
+
+#: system/ui/widgets/network.py:100
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:94
+#, python-brace-format
+msgid "eSIM"
+msgstr ""
+
+#: system/ui/widgets/network.py:172
+#, python-brace-format
+msgid "Enable Tethering"
+msgstr ""
+
+#: system/ui/widgets/network.py:175 system/ui/widgets/network.py:191
+#, python-brace-format
+msgid "EDIT"
+msgstr ""
+
+#: system/ui/widgets/network.py:176
+#, python-brace-format
+msgid "Tethering Password"
+msgstr ""
+
+#: system/ui/widgets/network.py:181
+#, python-brace-format
+msgid "Enable Roaming"
+msgstr ""
+
+#: system/ui/widgets/network.py:186
+#, python-brace-format
+msgid "Cellular Metered"
+msgstr ""
+
+#: system/ui/widgets/network.py:187
+#, python-brace-format
+msgid "Prevent large data uploads when on a metered cellular connection"
+msgstr ""
+
+#: system/ui/widgets/network.py:191
+#, python-brace-format
+msgid "APN Setting"
+msgstr ""
+
+#: system/ui/widgets/network.py:194
+#: openpilot/selfdrive/ui/mici/layouts/settings/display.py:30
+#: openpilot/selfdrive/ui/mici/layouts/settings/display.py:36
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:76
+#, python-brace-format
+msgid "default"
+msgstr ""
+
+#: system/ui/widgets/network.py:194
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:76
+#, python-brace-format
+msgid "metered"
+msgstr ""
+
+#: system/ui/widgets/network.py:194
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:76
+#, python-brace-format
+msgid "unmetered"
+msgstr ""
+
+#: system/ui/widgets/network.py:196
+#, python-brace-format
+msgid "Wi-Fi Network Metered"
+msgstr ""
+
+#: system/ui/widgets/network.py:196
+#, python-brace-format
+msgid "Prevent large data uploads when on a metered Wi-Fi connection"
+msgstr ""
+
+#: system/ui/widgets/network.py:202
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:73
+#, python-brace-format
+msgid "IP Address"
+msgstr ""
+
+#: system/ui/widgets/network.py:207
+#, python-brace-format
+msgid "Hidden Network"
+msgstr ""
+
+#: system/ui/widgets/network.py:207
+#, python-brace-format
+msgid "CONNECT"
+msgstr ""
+
+#: system/ui/widgets/network.py:256
+#, python-brace-format
+msgid "Enter APN"
+msgstr ""
+
+#: system/ui/widgets/network.py:256
+#, python-brace-format
+msgid "leave blank for automatic configuration"
+msgstr ""
+
+#: system/ui/widgets/network.py:289 system/ui/widgets/network.py:376
+#, python-brace-format
+msgid "Enter password"
+msgstr ""
+
+#: system/ui/widgets/network.py:289 system/ui/widgets/network.py:376
+#, python-brace-format
+msgid "for \"{}\""
+msgstr ""
+
+#: system/ui/widgets/network.py:293
+#, python-brace-format
+msgid "Enter SSID"
+msgstr ""
+
+#: system/ui/widgets/network.py:306
+#, python-brace-format
+msgid "Enter new tethering password"
+msgstr ""
+
+#: system/ui/widgets/network.py:368
+#, python-brace-format
+msgid "Scanning Wi-Fi networks..."
+msgstr ""
+
+#: system/ui/widgets/network.py:371
+#, python-brace-format
+msgid "No Wi-Fi networks found"
+msgstr ""
+
+#: system/ui/widgets/network.py:376
+#, python-brace-format
+msgid "Wrong password"
+msgstr ""
+
+#: system/ui/widgets/network.py:380 system/ui/widgets/network.py:541
+#, python-brace-format
+msgid "Forget"
+msgstr ""
+
+#: system/ui/widgets/network.py:381
+#, python-brace-format
+msgid "Forget Wi-Fi Network \"{}\"?"
+msgstr ""
+
+#: system/ui/widgets/network.py:437
+#, python-brace-format
+msgid "CONNECTING..."
+msgstr ""
+
+#: system/ui/widgets/network.py:441
+#, python-brace-format
+msgid "FORGETTING..."
+msgstr ""
+
+#: system/ui/widgets/network.py:445
+#, python-brace-format
+msgid "DISCONNECTING..."
+msgstr ""
+
+#: system/ui/widgets/network.py:544
+#, python-brace-format
+msgid "Disconnect"
+msgstr ""
+
+#: system/ui/widgets/esim_scanner.py:29
+#, python-brace-format
+msgid "Point the driver camera at a carrier eSIM QR code (LPA:...)"
+msgstr ""
+
+#: system/ui/widgets/esim_scanner.py:62
+#, python-brace-format
+msgid ""
+"Waiting for driver camera. Use the carrier eSIM QR code or enter the LPA "
+"code manually."
+msgstr ""
+
+#: system/ui/widgets/esim_scanner.py:78
+#, python-brace-format
+msgid "No QR detected"
+msgstr ""
+
+#: system/ui/widgets/esim_scanner.py:93
+#, python-brace-format
+msgid "Invalid QR code"
+msgstr ""
+
+#: system/ui/widgets/esim_scanner.py:105
+#, python-brace-format
+msgid "QR accepted"
+msgstr ""
+
+#: system/ui/widgets/esim_scanner.py:108
+#, python-brace-format
+msgid "Hold steady..."
+msgstr ""
+
+#: system/ui/widgets/esim_scanner.py:116
+#: openpilot/selfdrive/ui/onroad/driver_camera_dialog.py:38
+#: openpilot/selfdrive/ui/mici/onroad/driver_camera_dialog.py:89
+#: openpilot/selfdrive/ui/mici/layouts/onboarding.py:43
+#, python-brace-format
+msgid "camera starting"
+msgstr ""
+
+#: system/ui/widgets/keyboard.py:121
+#, python-brace-format
+msgid "Done"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:67
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:76
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:181
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:197
+#, python-brace-format
+msgid "No SSH keys found for user '{}'"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:72
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:192
+#, python-brace-format
+msgid "Request timed out"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:79
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:200
+#, python-brace-format
+msgid "GitHub error ({}) fetching keys"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:83
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:204
+#, python-brace-format
+msgid "Couldn't verify GitHub - check device time"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:86
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:208
+#, python-brace-format
+msgid "Couldn't reach GitHub - check connection"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:89
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:212
+#, python-brace-format
+msgid "Couldn't fetch SSH keys - see logs"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:95
+msgid "LOADING"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:97
+#: iqpilot/ui/layouts/settings/iq_panels.py:2677
+#, python-brace-format
+msgid "REMOVE"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:155
+#, python-brace-format
+msgid "Enter your GitHub username"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:50
+#, python-brace-format
+msgid "Pair Your Device"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:55
+#, python-brace-format
+msgid "Pair your device in the Konn3kt app"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:61
+#, python-brace-format
+msgid "Konn3kt Features:"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:64
+#, python-brace-format
+msgid "Remote access"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:64
+#, python-brace-format
+msgid "Live streaming"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:64
+#, python-brace-format
+msgid "Unlimited route storage"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:64
+#, python-brace-format
+msgid "And so much more"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:84
+#, python-brace-format
+msgid "Konn3kt"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:86
+#, python-brace-format
+msgid "Konn3kt Status:"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:138
+#: iqpilot/ui/layouts/settings/drive_history.py:154
+#, python-brace-format
+msgid "ALL TIME"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:181
+#: iqpilot/ui/layouts/settings/drive_history.py:99
+#, python-brace-format
+msgid "Drives"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:182
+#: iqpilot/ui/layouts/settings/drive_history.py:97
+#, python-brace-format
+msgid "KM"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:182
+#: iqpilot/ui/layouts/settings/drive_history.py:97
+#, python-brace-format
+msgid "Miles"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/prime.py:183
+#: iqpilot/ui/layouts/settings/drive_history.py:101
+#, python-brace-format
+msgid "Hours"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/pairing_dialog.py:171
+#, python-brace-format
+msgid "Pair your device to your Konn3kt account"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/pairing_dialog.py:196
+#, python-brace-format
+msgid "Open the Konn3kt app on your phone"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/pairing_dialog.py:197
+#, python-brace-format
+msgid "Tap \"Add Device\" and scan the QR code on the right"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/pairing_dialog.py:198
+#, python-brace-format
+msgid "Follow the prompts in the app to finish pairing"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/pairing_dialog.py:230
+#, python-brace-format
+msgid "QR Code Error"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/setup.py:23
+#, python-brace-format
+msgid "Pair device"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/setup.py:48
+#, python-brace-format
+msgid "Finish Setup"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/setup.py:50
+#: openpilot/selfdrive/ui/layouts/settings/device.py:28
+#, python-brace-format
+msgid "Pair your device in the Konn3kt app."
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/setup.py:75
+#, python-brace-format
+msgid "Please connect to Wi-Fi to complete initial pairing"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/exp_mode_button.py:61
+#, python-brace-format
+msgid "STOCK ACC"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/exp_mode_button.py:65
+#, python-brace-format
+msgid "IQ.DYNAMIC"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/exp_mode_button.py:67
+#, python-brace-format
+msgid "IQ.PILOT"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/exp_mode_button.py:69
+#, python-brace-format
+msgid "IQ.STANDARD"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/offroad_alerts.py:104
+#, python-brace-format
+msgid "Close"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/offroad_alerts.py:106
+#, python-brace-format
+msgid "Snooze Update"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/offroad_alerts.py:109
+#, python-brace-format
+msgid "Acknowledge Excessive Actuation"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/offroad_alerts.py:112
+#, python-brace-format
+msgid "Reboot and Update"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/offroad_alerts.py:320
+#, python-brace-format
+msgid "No release notes available."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/video_player.py:188
+#, python-brace-format
+msgid "Loading video"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/video_player.py:360
+#: openpilot/selfdrive/ui/layouts/video_player.py:371
+#, python-brace-format
+msgid "Unable to load video"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/video_player.py:485
+#: openpilot/selfdrive/ui/layouts/video_player.py:558
+#, python-brace-format
+msgid "Video Player"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/video_player.py:578
+#: openpilot/selfdrive/ui/layouts/routes.py:101
+#, python-brace-format
+msgid "Cloud only"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/video_player.py:610
+#, python-brace-format
+msgid "Cloud video unavailable"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/video_player.py:614
+#, python-brace-format
+msgid "Streaming from cloud"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/video_player.py:621
+#, python-brace-format
+msgid "No video for this camera"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/video_player.py:768
+#, python-brace-format
+msgid "calculating miles..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/video_player.py:850
+#, python-format, python-brace-format
+msgid "Loading %s"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:55
+msgid "--"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:56
+msgid "Wi-Fi"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:57
+msgid "ETH"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:58
+msgid "2G"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:59
+msgid "3G"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:60
+msgid "LTE"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:61
+msgid "5G"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:83
+#: openpilot/selfdrive/ui/layouts/sidebar.py:155
+#: openpilot/selfdrive/ui/layouts/sidebar.py:157
+#: openpilot/selfdrive/ui/layouts/sidebar.py:159
+#: openpilot/selfdrive/ui/layouts/home.py:644
+#: openpilot/selfdrive/ui/layouts/home.py:646
+#: openpilot/selfdrive/ui/layouts/home.py:648
+#, python-brace-format
+msgid "TEMP"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:83
+#: openpilot/selfdrive/ui/layouts/sidebar.py:155
+#: openpilot/selfdrive/ui/layouts/home.py:644
+#, python-brace-format
+msgid "GOOD"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:84
+#: openpilot/selfdrive/ui/layouts/sidebar.py:172
+#: openpilot/selfdrive/ui/layouts/sidebar.py:174
+#: openpilot/selfdrive/ui/layouts/home.py:650
+#: openpilot/selfdrive/ui/layouts/home.py:652
+#, python-brace-format
+msgid "VEHICLE"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:84
+#: openpilot/selfdrive/ui/layouts/sidebar.py:166
+#: openpilot/selfdrive/ui/layouts/sidebar.py:174
+#: openpilot/selfdrive/ui/layouts/home.py:652
+#: openpilot/selfdrive/ui/layouts/home.py:657
+#, python-brace-format
+msgid "ONLINE"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:85
+#: openpilot/selfdrive/ui/layouts/sidebar.py:164
+#: openpilot/selfdrive/ui/layouts/sidebar.py:166
+#: openpilot/selfdrive/ui/layouts/sidebar.py:168
+#: openpilot/selfdrive/ui/layouts/home.py:655
+#: openpilot/selfdrive/ui/layouts/home.py:657
+#: openpilot/selfdrive/ui/layouts/home.py:659
+#, python-brace-format
+msgid "KONN3KT"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:85
+#: openpilot/selfdrive/ui/layouts/sidebar.py:164
+#: openpilot/selfdrive/ui/layouts/home.py:655
+#, python-brace-format
+msgid "OFFLINE"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:147
+msgid "Unknown"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:159
+#: openpilot/selfdrive/ui/layouts/home.py:648
+#, python-brace-format
+msgid "HIGH"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:168
+#: openpilot/selfdrive/ui/layouts/home.py:659
+#, python-brace-format
+msgid "ERROR"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/sidebar.py:172
+#: openpilot/selfdrive/ui/layouts/home.py:650
+#, python-brace-format
+msgid "NO PANDA"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/home.py:411
+#: openpilot/selfdrive/ui/layouts/home.py:634
+#, python-brace-format
+msgid "READY"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/home.py:472
+#: openpilot/selfdrive/ui/layouts/settings_hub.py:130
+#: openpilot/selfdrive/ui/layouts/settings_hub.py:431
+#, python-brace-format
+msgid "Settings"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/home.py:473
+#: openpilot/selfdrive/ui/layouts/stats.py:18
+#, python-brace-format
+msgid "Stats"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/home.py:474
+#: openpilot/selfdrive/ui/layouts/nav.py:239
+#, python-brace-format
+msgid "Navigation"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/home.py:475
+#: openpilot/selfdrive/ui/layouts/routes.py:38
+#, python-brace-format
+msgid "Routes"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/home.py:618
+#, python-brace-format
+msgid "TEMP HIGH"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/home.py:620
+#, python-brace-format
+msgid "TEMP OK"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/home.py:623
+#, python-brace-format
+msgid "UNAVAILABLE"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/home.py:627
+#, python-brace-format
+msgid "KONN3KT OFFLINE"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/home.py:629
+#, python-brace-format
+msgid "KONN3KT ERROR"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/home.py:806
+#, python-brace-format
+msgid "{} ALERT"
+msgid_plural "{} ALERTS"
+msgstr[0] ""
+msgstr[1] ""
+
+#: openpilot/selfdrive/ui/layouts/home.py:812
+#, python-brace-format
+msgid "UPDATE"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/onboarding.py:112
+#, python-brace-format
+msgid "Welcome to IQ.Pilot"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/onboarding.py:113
+#, python-brace-format
+msgid ""
+"You must accept the Terms of Service to use IQ.Pilot. Read the latest terms "
+"before continuing at https://iqlvbs.com/tos."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/onboarding.py:116
+#, python-brace-format
+msgid "Decline"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/onboarding.py:117
+#, python-brace-format
+msgid "Agree"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/onboarding.py:146
+#, python-brace-format
+msgid "You must accept the Terms of Service in order to use IQ.Pilot."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/onboarding.py:149
+#, python-brace-format
+msgid "Decline, uninstall IQ.Pilot"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:299
+#, python-brace-format
+msgid "Set Home"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:299
+#, python-brace-format
+msgid "Set Work"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:300
+#, python-brace-format
+msgid "Enter an address or place"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:326
+#: openpilot/selfdrive/ui/layouts/nav.py:543
+#, python-brace-format
+msgid "Locating..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:332
+#, python-brace-format
+msgid "Couldn't locate that place"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:351
+#, python-brace-format
+msgid "Destination set"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:360
+#, python-brace-format
+msgid "Navigation canceled"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:443
+#, python-brace-format
+msgid "Search address or place"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:459
+#, python-brace-format
+msgid "Cancel navigation"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:469
+#, python-brace-format
+msgid "Home"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:470
+#, python-brace-format
+msgid "Set home address"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:472
+#, python-brace-format
+msgid "Work"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:473
+#, python-brace-format
+msgid "Set work address"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:517
+#, python-brace-format
+msgid "Waiting for GPS fix..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:546
+#: iqpilot/ui/layouts/settings/iq_panels.py:322
+#, python-brace-format
+msgid "Searching..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/nav.py:546
+#, python-brace-format
+msgid "No results"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings_hub.py:525
+#: openpilot/selfdrive/ui/layouts/settings/device.py:176
+#, python-brace-format
+msgid "Disengage to Reboot"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings_hub.py:527
+#: openpilot/selfdrive/ui/layouts/settings/device.py:179
+#, python-brace-format
+msgid "Are you sure you want to reboot?"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings_hub.py:527
+#: openpilot/selfdrive/ui/layouts/settings/device.py:59
+#: openpilot/selfdrive/ui/layouts/settings/device.py:179
+#: iqpilot/ui/layouts/settings/iq_panels.py:1276
+#: iqpilot/ui/layouts/settings/iq_panels.py:1442
+#, python-brace-format
+msgid "Reboot"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings_hub.py:536
+#: openpilot/selfdrive/ui/layouts/settings/device.py:188
+#, python-brace-format
+msgid "Disengage to Power Off"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings_hub.py:538
+#: openpilot/selfdrive/ui/layouts/settings/device.py:191
+#, python-brace-format
+msgid "Are you sure you want to power off?"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings_hub.py:538
+#: openpilot/selfdrive/ui/layouts/settings/device.py:59
+#: openpilot/selfdrive/ui/layouts/settings/device.py:191
+#: iqpilot/ui/layouts/settings/iq_panels.py:1443
+#, python-brace-format
+msgid "Power Off"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings_hub.py:547
+#: iqpilot/ui/layouts/settings/iq_panels.py:1538
+#, python-brace-format
+msgid "Disengage before forcing offroad"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings_hub.py:550
+#, python-brace-format
+msgid "Leave forced-offroad mode now?"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings_hub.py:550
+#, python-brace-format
+msgid "Switch the device into forced-offroad mode?"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings_hub.py:556
+#: iqpilot/ui/layouts/settings/iq_panels.py:1527
+#: iqpilot/ui/layouts/settings/iq_panels.py:1551
+#: iqpilot/ui/layouts/settings/iq_panels.py:1577
+#: iqpilot/ui/layouts/settings/iq_panels.py:2599
+#, python-brace-format
+msgid "Confirm"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/routes.py:128
+#, python-brace-format
+msgid "No routes recorded"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/routes.py:170
+#, python-brace-format
+msgid "Uploaded"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/routes.py:172
+#, python-brace-format
+msgid "Uploading"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/routes.py:174
+#, python-brace-format
+msgid "Cloud"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/routes.py:176
+#, python-brace-format
+msgid "On device"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:29
+msgid ""
+"Preview the driver facing camera to ensure that driver monitoring has good "
+"visibility. (vehicle must be off)"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:30
+msgid ""
+"IQ.Pilot requires the device to be mounted within 4° left or right and "
+"within 5° up or 9° down."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:31
+msgid "Review the rules, features, and limitations of IQ.Pilot"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:52
+#, python-brace-format
+msgid "Pair Device"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:52
+#, python-brace-format
+msgid "PAIR"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:55
+#: iqpilot/ui/layouts/settings/iq_panels.py:1921
+#, python-brace-format
+msgid "Reset Calibration"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:55
+#, python-brace-format
+msgid "RESET"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:63
+#: iqpilot/ui/layouts/settings/iq_panels.py:1461
+#, python-brace-format
+msgid "Dongle ID"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:63
+#: openpilot/selfdrive/ui/layouts/settings/device.py:64
+#: iqpilot/ui/layouts/settings/iq_panels.py:1461
+#: iqpilot/ui/layouts/settings/iq_panels.py:1463
+#, python-brace-format
+msgid "N/A"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:64
+#: iqpilot/ui/layouts/settings/iq_panels.py:1463
+#, python-brace-format
+msgid "Serial"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:66
+#, python-brace-format
+msgid "Driver Camera"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:66
+#: iqpilot/ui/layouts/settings/iq_panels.py:1423
+#, python-brace-format
+msgid "PREVIEW"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:69
+#, python-brace-format
+msgid "Review Training Guide"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:69
+#, python-brace-format
+msgid "REVIEW"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:71
+#: iqpilot/ui/layouts/settings/iq_panels.py:1427
+#, python-brace-format
+msgid "Regulatory"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:71
+#: iqpilot/ui/layouts/settings/iq_panels.py:1180
+#, python-brace-format
+msgid "VIEW"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:72
+#: iqpilot/ui/layouts/settings/iq_panels.py:1420
+#, python-brace-format
+msgid "Change Language"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:72
+#: iqpilot/ui/layouts/settings/iq_panels.py:1254
+#: iqpilot/ui/layouts/settings/iq_panels.py:1420
+#, python-brace-format
+msgid "CHANGE"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:95
+#, python-brace-format
+msgid "Select a language"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:107
+#, python-brace-format
+msgid "Disengage to Reset Calibration"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:123
+#, python-brace-format
+msgid "Are you sure you want to reset calibration?"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:123
+#: iqpilot/ui/layouts/settings/iq_panels.py:1532
+#, python-brace-format
+msgid "Reset"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:137
+#, python-brace-format
+msgid " Your device is pointed {:.1f}° {} and {:.1f}° {}."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:137
+#, python-brace-format
+msgid "down"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:137
+#, python-brace-format
+msgid "up"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:138
+#, python-brace-format
+msgid "left"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:138
+#, python-brace-format
+msgid "right"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:150
+#, python-brace-format
+msgid "<br><br>Steering lag calibration is {}% complete."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:152
+#, python-brace-format
+msgid "<br><br>Steering lag calibration is complete."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:162
+#, python-brace-format
+msgid " Steering torque response calibration is {}% complete."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:164
+#, python-brace-format
+msgid " Steering torque response calibration is complete."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:169
+#, python-brace-format
+msgid ""
+"IQ.Pilot is continuously calibrating, resetting is rarely required. "
+"Resetting calibration will restart IQ.Pilot if the car is powered on."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:24
+msgid ""
+"Use the IQ.Pilot system for adaptive cruise control and lane keep driver "
+"assistance. Your attention is required at all times to use this feature."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:27
+msgid "When enabled, pressing the accelerator pedal will disengage IQ.Pilot."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:29
+msgid ""
+"Standard is recommended. In aggressive mode, IQ.Pilot will follow lead cars "
+"closer and be more aggressive with the gas and brake. In relaxed mode "
+"IQ.Pilot will stay further away from lead cars. On supported cars, you can "
+"cycle through these personalities with your steering wheel distance button."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:34
+msgid ""
+"Controls IQ.Pilot speed limit behavior. Off disables speed limit features, "
+"Information only displays limits, Warning highlights overspeed, and Control "
+"adjusts set speed using detected limits."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:37
+msgid ""
+"Receive alerts to steer back into the lane when your vehicle drifts over a "
+"detected lane line without a turn signal activated while driving over 31 mph "
+"(50 km/h)."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:40
+msgid "Enable driver monitoring even when IQ.Pilot is not engaged."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:41
+msgid ""
+"Record and upload driving data and video. Disabling this stops all "
+"recording! No logs, no video, no audio."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:42
+msgid ""
+"Upload data from the driver facing camera and help improve the driver "
+"monitoring algorithm."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:43
+msgid "Display speed in km/h instead of mph."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:45
+msgid ""
+"Set the units from the device location. Speeds switch to km/h everywhere "
+"except the United States, the United Kingdom and Liberia, and are re-checked "
+"when you cross a border."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:48
+msgid ""
+"Record and store microphone audio while driving. The audio will be included "
+"in the dashcam video in Konn3kt."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:50
+msgid ""
+"Choose longitudinal behavior: IQ.Pilot (IQ longitudinal + end-to-end), "
+"IQ.Dynamic (IQ longitudinal + dynamic mode), IQ.Chill (IQ longitudinal + "
+"relaxed personality), or Stock ACC."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:67
+#, python-brace-format
+msgid "Disengage on Accelerator Pedal"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:73
+#, python-brace-format
+msgid "Enable Lane Departure Warnings"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:79
+#, python-brace-format
+msgid "Enable Dashcam"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:85
+#, python-brace-format
+msgid "Record and Upload Driver Camera"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:91
+#, python-brace-format
+msgid "Record and Upload Microphone Audio"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:97
+#, python-brace-format
+msgid "Use Metric System"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:103
+#, python-brace-format
+msgid "Set Units From Location"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:111
+#, python-brace-format
+msgid "Driving Personality"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:113
+#, python-brace-format
+msgid "Relaxed"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:113
+#, python-brace-format
+msgid "Standard"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:113
+#, python-brace-format
+msgid "Aggressive"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:120
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:86
+#, python-brace-format
+msgid "Speed Limit"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:122
+#: iqpilot/ui/layouts/settings/iq_panels.py:245
+#: iqpilot/ui/layouts/settings/iq_panels.py:619
+#: iqpilot/ui/layouts/settings/iq_panels.py:2193
+#, python-brace-format
+msgid "Off"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:122
+#, python-brace-format
+msgid "Info"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:122
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:159
+#, python-brace-format
+msgid "Warning"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:122
+#, python-brace-format
+msgid "Control"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:129
+#, python-brace-format
+msgid "Longitudinal Control"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:131
+#, python-brace-format
+msgid "Stock ACC"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:131
+#, python-brace-format
+msgid "IQ.Chill"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:131
+#: iqpilot/ui/layouts/settings/iq_panels.py:1081
+#, python-brace-format
+msgid "IQ.Dynamic"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:131
+#, python-brace-format
+msgid "IQ.Pilot"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:163
+#, python-brace-format
+msgid "Changing this setting will restart IQ.Pilot if the car is powered on."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:207
+#, python-brace-format
+msgid ""
+"Longitudinal Control modes:<br>IQ.Pilot features are listed below:"
+"<br><h4>IQ.Pilot End-to-End Longitudinal Control</h4><br>Let the driving "
+"model control the gas and brakes. IQ.Pilot will drive as it thinks a human "
+"would, including stopping for red lights and stop signs. Since the driving "
+"model decides the speed to drive, the set speed will only act as an upper "
+"bound. This feature is still being improved; mistakes should be expected."
+"<br><h4>IQ.Dynamic</h4><br>Dynamically blends between adaptive cruise "
+"behavior and end-to-end behavior based on scene/context.<br><h4>IQ.Chill</"
+"h4><br>Uses standard traffic-aware cruise behavior for longitudinal control."
+"<br><h4>New Driving Visualization</h4><br>The driving visualization will "
+"transition to the road-facing wide-angle camera at low speeds to better show "
+"some turns. The IQ.Pilot logo will also be shown in the top right corner."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:232
+#, python-brace-format
+msgid ""
+"Vehicle longitudinal capability has not been detected yet. Start the car "
+"once to detect support."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:234
+#, python-brace-format
+msgid ""
+"Factory Toyota longitudinal control is currently enforced. Choose an IQ "
+"longitudinal mode to disable it."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:236
+#, python-brace-format
+msgid ""
+"IQ longitudinal modes are unavailable for this vehicle. Stock ACC is the "
+"only available option."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:339
+#: iqpilot/ui/layouts/settings/iq_panels.py:2341
+#, python-brace-format
+msgid "Enable"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/settings.py:57
+#: iqpilot/ui/layouts/settings/iq_panels.py:2091
+msgid "Device"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/settings.py:58
+#: iqpilot/ui/layouts/settings/iq_panels.py:2092
+msgid "Network"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/settings.py:59
+#: iqpilot/ui/layouts/settings/iq_panels.py:2093
+msgid "Toggles"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/settings.py:60
+#: iqpilot/ui/layouts/settings/iq_panels.py:2094
+msgid "Software"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/settings.py:61
+#: iqpilot/ui/layouts/settings/iq_panels.py:2100
+msgid "Developer"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:17
+msgid ""
+"ADB (Android Debug Bridge) allows connecting to your device over USB or over "
+"the network."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:20
+msgid ""
+"Warning: This grants SSH access to all public keys in your GitHub settings. "
+"Never enter a GitHub username other than your own. An IQ.Pilot employee will "
+"NEVER ask you to add their GitHub username."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:24
+msgid ""
+"Exposes a snapshot of recent dashcam clips and logs as a USB drive when "
+"connected to a computer. IQ.Pilot keeps running while this is enabled."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:28
+msgid ""
+"Commands a scripted sequence of acceleration steps to measure longitudinal "
+"actuator response. Requires IQ.Pilot longitudinal control. Only use on a "
+"clear, closed road."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:32
+msgid ""
+"Commands a scripted sequence of lateral acceleration steps to measure "
+"steering actuator response. Only use on a straight, flat, clear road."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:46
+#, python-brace-format
+msgid "Enable ADB"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:54
+#, python-brace-format
+msgid "USB Storage"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:63
+#, python-brace-format
+msgid "Enable SSH"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:68
+#, python-brace-format
+msgid "SSH Keys"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:71
+#, python-brace-format
+msgid "Longitudinal Maneuver Mode"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:78
+#, python-brace-format
+msgid "Lateral Maneuver Mode"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:23
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:178
+#, python-brace-format
+msgid "checking..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:24
+#, python-brace-format
+msgid "downloading..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:25
+#, python-brace-format
+msgid "finalizing update..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:45
+#, python-brace-format
+msgid "never"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:56
+#, python-brace-format
+msgid "now"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:59
+#, python-brace-format
+msgid "{} minute ago"
+msgid_plural "{} minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:62
+#, python-brace-format
+msgid "{} hour ago"
+msgid_plural "{} hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:65
+#, python-brace-format
+msgid "{} day ago"
+msgid_plural "{} days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:73
+#, python-brace-format
+msgid "Updates are only downloaded while the car is off."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:74
+#, python-brace-format
+msgid "Current Version"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:75
+#, python-brace-format
+msgid "Download"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:75
+#: openpilot/selfdrive/ui/layouts/settings/software.py:148
+#: openpilot/selfdrive/ui/layouts/settings/software.py:159
+#: openpilot/selfdrive/ui/layouts/settings/software.py:188
+#: iqpilot/ui/layouts/settings/iq_panels.py:416
+#, python-brace-format
+msgid "CHECK"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:78
+#, python-brace-format
+msgid "Install Update"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:78
+#: openpilot/selfdrive/ui/layouts/settings/software.py:177
+#, python-brace-format
+msgid "INSTALL"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:86
+#, python-brace-format
+msgid "Target Branch"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:86
+#: iqpilot/ui/layouts/settings/iq_panels.py:418
+#: iqpilot/ui/layouts/settings/iq_panels.py:420
+#: iqpilot/ui/layouts/settings/iq_panels.py:497
+#: iqpilot/ui/layouts/settings/iq_panels.py:1697
+#: iqpilot/ui/layouts/settings/iq_panels.py:2654
+#: iqpilot/ui/layouts/settings/iq_panels.py:2677
+#, python-brace-format
+msgid "SELECT"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:92
+#, python-brace-format
+msgid "Git Auth"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:92
+#, python-brace-format
+msgid "AUTH"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:102
+#: openpilot/selfdrive/ui/layouts/settings/software.py:204
+#: iqpilot/ui/layouts/settings/iq_panels.py:1306
+#, python-brace-format
+msgid "Uninstall"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:102
+#, python-brace-format
+msgid "UNINSTALL"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:115
+#, python-brace-format
+msgid "configured"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:147
+#, python-brace-format
+msgid "failed to check for update"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:150
+#, python-brace-format
+msgid "update available"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:151
+#, python-brace-format
+msgid "DOWNLOAD"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:156
+#, python-brace-format
+msgid "up to date, last checked {}"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:158
+#, python-brace-format
+msgid "up to date, last checked never"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:204
+#: iqpilot/ui/layouts/settings/iq_panels.py:1306
+#, python-brace-format
+msgid "Are you sure you want to uninstall?"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:224
+#: iqpilot/ui/layouts/settings/iq_panels.py:1337
+#, python-brace-format
+msgid "Select a branch"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:257
+#, python-brace-format
+msgid "Git token / password"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:258
+#, python-brace-format
+msgid "leave username and token blank to clear"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:261
+#, python-brace-format
+msgid "Git username"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:261
+#, python-brace-format
+msgid "for private branch updates"
+msgstr ""
+
+#: openpilot/selfdrive/ui/onroad/alert_renderer.py:51
+#, python-brace-format
+msgid "IQ.Pilot Unavailable"
+msgstr ""
+
+#: openpilot/selfdrive/ui/onroad/alert_renderer.py:52
+#, python-brace-format
+msgid "Waiting to start"
+msgstr ""
+
+#: openpilot/selfdrive/ui/onroad/alert_renderer.py:58
+#, python-brace-format
+msgid "TAKE CONTROL IMMEDIATELY"
+msgstr ""
+
+#: openpilot/selfdrive/ui/onroad/alert_renderer.py:59
+#: openpilot/selfdrive/ui/onroad/alert_renderer.py:65
+#, python-brace-format
+msgid "System Unresponsive"
+msgstr ""
+
+#: openpilot/selfdrive/ui/onroad/alert_renderer.py:66
+#, python-brace-format
+msgid "Reboot Device"
+msgstr ""
+
+#: openpilot/selfdrive/ui/onroad/hud_renderer.py:197
+#: openpilot/selfdrive/ui/onroad/hud_renderer.py:208
+#, python-brace-format
+msgid "LIMIT"
+msgstr ""
+
+#: openpilot/selfdrive/ui/onroad/hud_renderer.py:219
+#: openpilot/selfdrive/ui/mici/onroad/hud_renderer.py:259
+#, python-brace-format
+msgid "MAX"
+msgstr ""
+
+#: openpilot/selfdrive/ui/onroad/hud_renderer.py:248
+#: openpilot/selfdrive/ui/mici/onroad/hud_renderer.py:276
+#: iqpilot/ui/onroad/hud_overlays.py:224
+#, python-brace-format
+msgid "km/h"
+msgstr ""
+
+#: openpilot/selfdrive/ui/onroad/hud_renderer.py:248
+#: openpilot/selfdrive/ui/mici/onroad/hud_renderer.py:276
+#: iqpilot/ui/onroad/hud_overlays.py:224
+#, python-brace-format
+msgid "mph"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/onroad/augmented_road_view.py:193
+#: openpilot/selfdrive/ui/mici/onroad/augmented_road_view.py:218
+#, python-brace-format
+msgid ""
+"start the car to\n"
+"use IQ.Pilot"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/onroad/augmented_road_view.py:216
+#, python-brace-format
+msgid "system booting"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/onboarding.py:64
+#: openpilot/selfdrive/ui/mici/layouts/onboarding.py:330
+#, python-brace-format
+msgid "continue"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/onboarding.py:98
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:198
+#, python-brace-format
+msgid "power off"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:111
+#, python-brace-format
+msgid "disable force offroad"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:111
+#, python-brace-format
+msgid "force offroad"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:116
+#, python-brace-format
+msgid ""
+"disable\n"
+"force offroad"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:99
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:116
+#, python-brace-format
+msgid ""
+"force\n"
+"offroad"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/onboarding.py:100
+#, python-brace-format
+msgid ""
+"Re-mount if your face is occluded or driver monitoring has difficulty "
+"tracking your face."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/onboarding.py:277
+#, python-brace-format
+msgid "No camera detected in dev mode. Tap check to continue."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/onboarding.py:297
+#, python-brace-format
+msgid "no"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/onboarding.py:297
+#, python-brace-format
+msgid "yes"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/onboarding.py:300
+#, python-brace-format
+msgid "Do you want to upload driver camera data?"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/onboarding.py:403
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:353
+#, python-brace-format
+msgid "uninstall IQ.Pilot"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/onboarding.py:405
+#, python-brace-format
+msgid "back"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/onboarding.py:441
+#, python-brace-format
+msgid "decline"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/offroad_alerts.py:203
+#, python-brace-format
+msgid "no alerts"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:33
+#, python-brace-format
+msgid "IQ.Dynamic Curves"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:34
+#, python-brace-format
+msgid "IQ.Dynamic Slower Lead"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:35
+#, python-brace-format
+msgid "IQ.Dynamic Stopped Lead"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:36
+#, python-brace-format
+msgid "IQ.Dynamic Model Stops"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:37
+#, python-brace-format
+msgid "IQ.Dynamic SLC Fallback"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:38
+#, python-brace-format
+msgid "IQ.Dynamic Low Speed"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:39
+#, python-brace-format
+msgid "IQ.Dynamic Lead Speed"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:40
+#, python-brace-format
+msgid "Model Stop Time"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:41
+#, python-brace-format
+msgid "IQ Force Stops"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:55
+#, python-brace-format
+msgid "SLC Policy"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:55
+#, python-brace-format
+msgid "map only"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:55
+#, python-brace-format
+msgid "map priority"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:55
+#, python-brace-format
+msgid "combined"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:56
+#, python-brace-format
+msgid "SLC Override"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:56
+#, python-brace-format
+msgid "manual"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:56
+#, python-brace-format
+msgid "set speed"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:57
+#, python-brace-format
+msgid "SLC Confirm Higher"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:58
+#, python-brace-format
+msgid "SLC Confirm Lower"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:59
+#, python-brace-format
+msgid "SLC Auto Confirm"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:60
+#, python-brace-format
+msgid "SLC Fallback IQ.Pilot"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:61
+#, python-brace-format
+msgid "SLC Online Filler"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:62
+#, python-brace-format
+msgid "Lookahead Higher"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:63
+#, python-brace-format
+msgid "Lookahead Lower"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:81
+#, python-brace-format
+msgid "iq.dynamic settings"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:84
+#, python-brace-format
+msgid "Follow Distance"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:85
+#, python-brace-format
+msgid "aggressive"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:85
+#, python-brace-format
+msgid "standard"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:85
+#, python-brace-format
+msgid "relaxed"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:85
+#, python-brace-format
+msgid "stock"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:87
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:75
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:76
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:338
+#, python-brace-format
+msgid "off"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:87
+#, python-brace-format
+msgid "info"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:87
+#, python-brace-format
+msgid "warning"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:87
+#, python-brace-format
+msgid "control"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:88
+#, python-brace-format
+msgid "speed limit settings"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/cruise.py:90
+#, python-brace-format
+msgid "Experimental Lead MPC"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:99
+#, python-brace-format
+msgid "active model"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:102
+#, python-brace-format
+msgid "stop download"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:106
+#, python-brace-format
+msgid "redownload model"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:110
+#, python-brace-format
+msgid "reload model list"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:113
+#, python-brace-format
+msgid "combined model"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:115
+#, python-brace-format
+msgid "vision weights"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:117
+#, python-brace-format
+msgid "policy weights"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:120
+#, python-brace-format
+msgid "purge model cache"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:124
+#, python-brace-format
+msgid "self-tuning steer delay"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:125
+#, python-brace-format
+msgid "manual delay offset"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:128
+#, python-brace-format
+msgid "low-speed turn planning"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:129
+#, python-brace-format
+msgid "lane turn speed"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:129
+#, python-brace-format
+msgid "slow"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:129
+#, python-brace-format
+msgid "normal"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:129
+#, python-brace-format
+msgid "fast"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:239
+#, python-brace-format
+msgid ""
+"slide to\n"
+"clear cache"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:294
+#, python-brace-format
+msgid "queued"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:296
+#, python-brace-format
+msgid ""
+"slide to\n"
+"redownload"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:303
+#: iqpilot/ui/layouts/settings/iq_panels.py:1949
+#: iqpilot/ui/layouts/settings/iq_panels.py:1998
+#: iqpilot/ui/layouts/settings/iq_panels.py:2002
+#, python-brace-format
+msgid "Default (CD210)"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:308
+#, python-brace-format
+msgid "Favorites"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/models.py:355
+#, python-brace-format
+msgid ""
+"slide to\n"
+"reset calibration"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:77
+#, python-brace-format
+msgid ""
+"slide to\n"
+"{}"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:79
+#, python-brace-format
+msgid "Disengage to {}"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:105
+#, python-brace-format
+msgid "device ID"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:109
+#, python-brace-format
+msgid "serial"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:134
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:148
+#, python-brace-format
+msgid "pair in app"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:146
+#, python-brace-format
+msgid "online"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:146
+#, python-brace-format
+msgid "offline"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:163
+#, python-brace-format
+msgid "Please connect to Wi-Fi to complete initial pairing."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:165
+#, python-brace-format
+msgid "Device must be registered with Konn3kt to pair."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:192
+#, python-brace-format
+msgid "reset calibration"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:192
+#, python-brace-format
+msgid "reset"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:195
+#, python-brace-format
+msgid "reboot"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:202
+#, python-brace-format
+msgid "regulatory info"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:205
+#, python-brace-format
+msgid ""
+"driver\n"
+"camera preview"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:209
+#, python-brace-format
+msgid ""
+"review\n"
+"training guide"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:213
+#, python-brace-format
+msgid ""
+"terms &\n"
+"conditions"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/device.py:216
+#, python-brace-format
+msgid ""
+"change\n"
+"language"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:17
+#, python-brace-format
+msgid "stay engaged"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:17
+#, python-brace-format
+msgid "standby"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:17
+#, python-brace-format
+msgid "disengage"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:23
+#: iqpilot/ui/layouts/settings/iq_panels.py:717
+#, python-brace-format
+msgid "Driver Intervention Handling"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:52
+#: iqpilot/ui/layouts/settings/iq_panels.py:712
+#, python-brace-format
+msgid "Availability While Cruise Changes"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:54
+#: iqpilot/ui/layouts/settings/iq_panels.py:724
+#, python-brace-format
+msgid "Brake Response Mode"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:74
+#, python-brace-format
+msgid "Auto Lane Change"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:75
+#, python-brace-format
+msgid "nudge"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:75
+#, python-brace-format
+msgid "no nudge"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:77
+#, python-brace-format
+msgid "Delay with Blind Spot"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:78
+#, python-brace-format
+msgid "Continuous Changes"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:101
+#, python-brace-format
+msgid "AOL"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:102
+#, python-brace-format
+msgid "steering assistance behavior"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:104
+#, python-brace-format
+msgid "lane change"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/steering.py:106
+#, python-brace-format
+msgid "Neural Net FF"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:70
+#: openpilot/selfdrive/ui/mici/layouts/settings/settings.py:90
+#, python-brace-format
+msgid "vehicle"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:73
+#, python-brace-format
+msgid "enforce factory long."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:75
+#, python-brace-format
+msgid "hyundai long. tuning"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:76
+#, python-brace-format
+msgid "dynamic"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:76
+#, python-brace-format
+msgid "predictive"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:77
+#, python-brace-format
+msgid "creep from standstill (beta)"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:78
+#, python-brace-format
+msgid "stop and go manual brake"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:79
+#, python-brace-format
+msgid "PQ HCA status 7 mode"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:80
+#, python-brace-format
+msgid "lateral when cruise faulted"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:81
+#, python-brace-format
+msgid "MQB ACC resume"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:82
+#, python-brace-format
+msgid "MQB steering lockout"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:83
+#, python-brace-format
+msgid "virtual torque blending"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/dashcam.py:15
+#, python-brace-format
+msgid "enable dashcam"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/dashcam.py:16
+#, python-brace-format
+msgid "record driver camera"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/dashcam.py:17
+#, python-brace-format
+msgid "record microphone audio"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/display.py:28
+#, python-brace-format
+msgid "force mici UI"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/display.py:29
+#, python-brace-format
+msgid "display brightness"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/display.py:31
+#, python-brace-format
+msgid "driving brightness"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/display.py:32
+#, python-brace-format
+msgid "auto"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/display.py:32
+#, python-brace-format
+msgid "auto dark"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/display.py:33
+#, python-brace-format
+msgid "brightness delay"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/display.py:35
+#, python-brace-format
+msgid "interactivity"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/toggles.py:19
+#, python-brace-format
+msgid "disengage on accelerator"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/toggles.py:20
+#, python-brace-format
+msgid "lane departure warnings"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/toggles.py:21
+#, python-brace-format
+msgid "use metric units"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/toggles.py:22
+#, python-brace-format
+msgid "set units from location"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/settings.py:35
+#, python-brace-format
+msgid "cruise"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/settings.py:62
+#, python-brace-format
+msgid "toggles"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/settings.py:66
+#, python-brace-format
+msgid "steering"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/settings.py:74
+#, python-brace-format
+msgid "visuals"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/settings.py:78
+#, python-brace-format
+msgid "models"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/settings.py:82
+#, python-brace-format
+msgid "display"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/settings.py:86
+#, python-brace-format
+msgid "trips"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/settings.py:94
+#, python-brace-format
+msgid "dashcam"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/settings.py:98
+#, python-brace-format
+msgid "network"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/settings.py:103
+#, python-brace-format
+msgid "device"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/settings.py:107
+#, python-brace-format
+msgid "software"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/settings.py:111
+#, python-brace-format
+msgid "developer"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/visuals.py:13
+#, python-brace-format
+msgid "Blind Spot Warnings"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/visuals.py:14
+#: iqpilot/ui/layouts/settings/iq_panels.py:206
+#, python-brace-format
+msgid "Steering Effort Arc"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/visuals.py:15
+#, python-brace-format
+msgid "Road Name"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/visuals.py:16
+#, python-brace-format
+msgid "Turn Signals"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/visuals.py:17
+#, python-brace-format
+msgid "Acceleration Bar"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/developer.py:24
+#, python-brace-format
+msgid "Loading..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/developer.py:32
+#: openpilot/selfdrive/ui/mici/layouts/settings/developer.py:38
+#: openpilot/selfdrive/ui/mici/layouts/settings/developer.py:51
+#, python-brace-format
+msgid "Not set"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/developer.py:42
+#, python-brace-format
+msgid "enter GitHub username..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/developer.py:44
+#, python-brace-format
+msgid "Please connect to Wi-Fi to fetch your key."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/developer.py:51
+#, python-brace-format
+msgid "SSH keys"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/developer.py:58
+#, python-brace-format
+msgid "longitudinal maneuver mode"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/developer.py:61
+#, python-brace-format
+msgid "lateral maneuver mode"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/iq_widgets.py:102
+#, python-brace-format
+msgid "IQ Mode"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:44
+#, python-brace-format
+msgid "version"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:48
+#, python-brace-format
+msgid "branch"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:80
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:118
+#, python-brace-format
+msgid "check for update"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:97
+#, python-brace-format
+msgid "Please connect to Wi-Fi to update."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:151
+#, python-brace-format
+msgid ""
+"updater failed\n"
+"to respond"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:168
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:169
+#, python-brace-format
+msgid "failed to update"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:173
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:174
+#, python-brace-format
+msgid "download update"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:179
+#, python-brace-format
+msgid "up to date"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:198
+#, python-brace-format
+msgid "install update"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:248
+#, python-brace-format
+msgid ""
+"update\n"
+"install mode"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:300
+#, python-brace-format
+msgid "target branch"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:324
+#, python-brace-format
+msgid ""
+"automatic\n"
+"updates"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:324
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:338
+#, python-brace-format
+msgid "on"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/software.py:353
+#, python-brace-format
+msgid "uninstall"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:90
+#, python-brace-format
+msgid ""
+"slide to\n"
+"forget"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:118
+#, python-brace-format
+msgid ""
+"slide to\n"
+"disconnect"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:247
+#, python-brace-format
+msgid "forgetting..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:249
+#, python-brace-format
+msgid "disconnecting..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:251
+#, python-brace-format
+msgid "starting..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:251
+#, python-brace-format
+msgid "connecting..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:253
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:56
+#, python-brace-format
+msgid "tethering"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:253
+#, python-brace-format
+msgid "connected"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:255
+#, python-brace-format
+msgid "not in range"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:257
+#, python-brace-format
+msgid "unsupported"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:259
+#, python-brace-format
+msgid "wrong password"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:259
+#, python-brace-format
+msgid "connect"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:302
+#, python-brace-format
+msgid "searching for networks"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/wifi_ui.py:429
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:65
+#, python-brace-format
+msgid "enter password..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:68
+#, python-brace-format
+msgid "status"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:72
+#, python-brace-format
+msgid "refresh profiles"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:77
+#, python-brace-format
+msgid "add profile"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:77
+#, python-brace-format
+msgid "scan qr / enter code"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:90
+#, python-brace-format
+msgid "provider unknown"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:91
+#, python-brace-format
+msgid "active"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:98
+#, python-brace-format
+msgid "scan qr"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:98
+#, python-brace-format
+msgid "enter code"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:106
+#, python-brace-format
+msgid "add esim profile"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:121
+#, python-brace-format
+msgid "enter LPA activation code..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:126
+#, python-brace-format
+msgid "optional nickname..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:133
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:141
+#, python-brace-format
+msgid "activate"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:134
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:143
+#, python-brace-format
+msgid "rename"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:136
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:145
+#, python-brace-format
+msgid "remove comma psim"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:138
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:147
+#, python-brace-format
+msgid "delete"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:150
+#, python-brace-format
+msgid "profile actions"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:153
+#, python-brace-format
+msgid "rename profile..."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:168
+#, python-brace-format
+msgid "Final Warning"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:169
+#, python-brace-format
+msgid ""
+"You must use your own eSIM profile after this. You cannot use Comma Prime "
+"again unless you buy a new SIM from comma."
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/esim_ui.py:177
+#, python-brace-format
+msgid ""
+"slide to remove\n"
+"comma psim"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:56
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:190
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:199
+#: openpilot/selfdrive/ui/mici/widgets/button.py:541
+#, python-brace-format
+msgid "disabled"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:69
+#, python-brace-format
+msgid "tethering password"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:73
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:202
+#, python-brace-format
+msgid "Not connected"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:89
+#, python-brace-format
+msgid "network usage"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:92
+#, python-brace-format
+msgid "wi-fi"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:94
+#, python-brace-format
+msgid "manage profiles"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:100
+#, python-brace-format
+msgid "enable roaming"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:103
+#, python-brace-format
+msgid "apn settings"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:107
+#, python-brace-format
+msgid "cellular metered"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:182
+#, python-brace-format
+msgid "enter APN"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:190
+#: openpilot/selfdrive/ui/mici/layouts/settings/network/network_layout.py:199
+#, python-brace-format
+msgid "enabled"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/widgets/stock_pairing_dialog.py:37
+#: openpilot/selfdrive/ui/mici/widgets/pairing_dialog.py:34
+#, python-brace-format
+msgid "pair with Konn3kt"
+msgstr ""
+
+#: iqpilot/ui/onroad/hud_overlays.py:1006
+#: iqpilot/ui/onroad/hud_overlays.py:1012
+#, python-brace-format
+msgid "Near"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/drive_history.py:156
+#, python-brace-format
+msgid "PAST WEEK"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:119
+#, python-brace-format
+msgid "Auto"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:121
+#, python-brace-format
+msgid "Auto — Dim"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:133
+#, python-brace-format
+msgid "Force Mici UI"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:134
+#, python-brace-format
+msgid "Run the compact comma 4 (mici) interface on this device"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:138
+#, python-brace-format
+msgid "Display Brightness"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:140
+#: iqpilot/ui/layouts/settings/iq_panels.py:156
+#: iqpilot/ui/layouts/settings/iq_panels.py:1415
+#, python-brace-format
+msgid "Default"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:143
+#, python-brace-format
+msgid "Driving Brightness"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:148
+#, python-brace-format
+msgid "Dim Delay"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:153
+#, python-brace-format
+msgid "Auto-Close Settings"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:154
+#, python-brace-format
+msgid "How long the settings screen may sit untouched before it closes itself."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:190
+msgid ""
+"Pins live readouts (gap, speed, time-to-lead) to the chevron marking the car "
+"ahead. Needs IQ.Pilot to be the one controlling gas and brake."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:192
+msgid "Unavailable — IQ.Pilot longitudinal control is not active on this car."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:198
+#, python-brace-format
+msgid "Blind Spot Alerts"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:199
+#, python-brace-format
+msgid ""
+"Flashes a side warning whenever the car reports something sitting in your "
+"blind spot (BSM-equipped cars only)."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:202
+#, python-brace-format
+msgid "Expanded Status Bar"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:203
+#, python-brace-format
+msgid ""
+"Bring back the classic UI's wide offroad status strip: temperature, vehicle, "
+"and Konn3kt state at a glance."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:207
+#, python-brace-format
+msgid ""
+"Trace an arc over the road view showing how much steering IQ.Pilot is "
+"applying while lateral control runs."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:210
+#, python-brace-format
+msgid "Road Name Overlay"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:211
+#, python-brace-format
+msgid ""
+"Show the current road's name over the driving view.<br>Requires offline map "
+"data for your region to be installed."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:215
+#, python-brace-format
+msgid "Blinker Indicators"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:216
+#, python-brace-format
+msgid "Mirror the car's blinkers as arrows on the driving screen."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:219
+#, python-brace-format
+msgid "Acceleration Meter"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:220
+#, python-brace-format
+msgid ""
+"Draw a bar along the left edge tracking measured acceleration and braking — "
+"what the car is actually doing right now, not the planner's request."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:243
+#, python-brace-format
+msgid "Lead Vehicle Readouts"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:245
+#, python-brace-format
+msgid "Distance"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:245
+#, python-brace-format
+msgid "Speed"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:245
+#, python-brace-format
+msgid "Time"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:245
+#, python-brace-format
+msgid "All"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:250
+#, python-brace-format
+msgid "Onroad Developer UI"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:251
+#, python-brace-format
+msgid ""
+"Overlay a bar of live control metrics (steering, lateral accel, lead data) "
+"while driving."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:260
+#, python-brace-format
+msgid "Display"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:314
+#: iqpilot/ui/layouts/settings/iq_panels.py:322
+#, python-brace-format
+msgid "Scan"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:400
+#, python-brace-format
+msgid "Routing Engine Version"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:402
+#, python-brace-format
+msgid "Online On-Screen Maps"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:403
+#, python-brace-format
+msgid ""
+"Pull live Mapbox tiles for the on-screen map whenever the device has "
+"internet."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:407
+#, python-brace-format
+msgid "Offline On-Screen Maps"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:408
+#, python-brace-format
+msgid ""
+"Draw the on-screen map from tiles stored on the device. Combined with "
+"Online, stored tiles take over the moment connectivity drops. Tiles come "
+"down with your selected region."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:412
+#, python-brace-format
+msgid "Stored Maps"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:412
+#: iqpilot/ui/layouts/settings/iq_panels.py:449
+#, python-brace-format
+msgid "DELETE"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:414
+#, python-brace-format
+msgid "Fetching Map"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:415
+#, python-brace-format
+msgid "Downloading Map Tiles"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:416
+#, python-brace-format
+msgid "Map Database"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:418
+#, python-brace-format
+msgid "Country"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:420
+#, python-brace-format
+msgid "State"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:434
+#, python-brace-format
+msgid ""
+"This will delete ALL downloaded maps\n"
+"\n"
+"Are you sure you want to delete all maps?"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:435
+#, python-brace-format
+msgid "Yes, delete all maps"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:439
+#, python-brace-format
+msgid "REMOVING..."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:459
+#, python-brace-format
+msgid ""
+"This will start the download process and it might take a while to complete."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:460
+#, python-brace-format
+msgid "Start Download"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:478
+#, python-brace-format
+msgid "LOADING..."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:494
+#, python-brace-format
+msgid "All states (~6.0 GB)"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:502
+#, python-brace-format
+msgid "Perform a search"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:546
+#, python-brace-format
+msgid "Preparing Map Tiles..."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:557
+#, python-brace-format
+msgid "Download failed — try again."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:564
+#, python-brace-format
+msgid "Fetching Maps..."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:602
+#, python-brace-format
+msgid "Checked {}"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:620
+#, python-brace-format
+msgid "Nudge"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:621
+#, python-brace-format
+msgid "No Nudge"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:622
+#: iqpilot/ui/layouts/settings/iq_panels.py:623
+#: iqpilot/ui/layouts/settings/iq_panels.py:624
+#: iqpilot/ui/layouts/settings/iq_panels.py:625
+#, python-brace-format
+msgid "s"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:638
+#, python-brace-format
+msgid "Blinker-Initiated Lane Change"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:640
+#, python-brace-format
+msgid ""
+"Delay before a blinker-triggered lane change starts on its own — no wheel "
+"nudge needed once a delay is set (default is Nudge).<br>Use the blinker for "
+"this only when traffic and the road actually allow the maneuver."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:648
+#, python-brace-format
+msgid "Hold Lane Change for Blind Spot"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:649
+#, python-brace-format
+msgid ""
+"Hold the automatic lane change while blind spot monitoring reports a car in "
+"the target lane, releasing it once the lane is clear."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:654
+#, python-brace-format
+msgid "Auto Lane Change: Continuous Changes"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:655
+#, python-brace-format
+msgid ""
+"Normally one maneuver ends the lane change even with the blinker held. Turn "
+"this on to chain further changes while the blinker stays on — each follow-up "
+"still wants a wheel nudge."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:688
+#, python-brace-format
+msgid "Stay Engaged"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:688
+msgid "Remain Active: braking never interrupts steering assistance."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:689
+#, python-brace-format
+msgid "Standby"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:689
+msgid ""
+"Standby: braking parks steering assistance; it rejoins once you're off the "
+"pedal."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:690
+#, python-brace-format
+msgid "Disengage"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:690
+msgid "Disengage: braking shuts steering assistance off entirely."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:696
+#, python-brace-format
+msgid ""
+"Note: on cars lacking an LFA/LKAS button, turning this off keeps steering "
+"assistance from arming as cruise availability flips."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:698
+#, python-brace-format
+msgid "Pick what a brake-pedal press does to steering assistance."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:699
+#, python-brace-format
+msgid "Locked OFF on this platform; the vehicle can't support other choices."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:700
+#, python-brace-format
+msgid "This platform is limited to Disengage mode."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:758
+#, python-brace-format
+msgid "Pick how steering assistance reacts once the driver brakes in IQ.Pilot."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:836
+#, python-brace-format
+msgid ""
+"Enable Always on Lateral (AOL). Disable this toggle to return to stock "
+"IQ.Pilot steering engagement behavior."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:837
+#, python-brace-format
+msgid ""
+"This platform supports a limited set of steering assistance behavior options."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:838
+#, python-brace-format
+msgid ""
+"This platform supports the full steering assistance behavior configuration."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:839
+#, python-brace-format
+msgid "Start the vehicle to check steering assistance behavior compatibility."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:843
+#, python-brace-format
+msgid "Always on Lateral (AOL)"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:847
+#, python-brace-format
+msgid "Steering Assistance Behavior"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:852
+#, python-brace-format
+msgid "Lane Change Options"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:858
+#, python-brace-format
+msgid "Neural Network Feed Forward (NNFF)"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:862
+#, python-brace-format
+msgid "Low-Speed Turn Planning"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:863
+#, python-brace-format
+msgid ""
+"If you're driving at 20 mph (32 km/h) or below and have your blinker on, the "
+"car will plan a turn in that direction at the nearest drivable path. This "
+"prevents situations (like at red lights) where the car might plan the wrong "
+"turn direction."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:869
+#, python-brace-format
+msgid "Adjust Lane Turn Desire Speed"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:870
+#, python-brace-format
+msgid ""
+"Sets the speed threshold used by Lane Turn Desires. Below this value, turn "
+"desires can plan into the nearest drivable turn path. Default is 19 mph."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:875
+#, python-brace-format
+msgid "Self-Tuning Steer Delay"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:877
+#, python-brace-format
+msgid "Manual Delay Offset"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:878
+#, python-brace-format
+msgid ""
+"How much lead time to add on top of the car's own steering rack delay while "
+"self-tuning is off. Default is 0.2 s."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:930
+#, python-brace-format
+msgid ""
+"Let IQ.Pilot measure how long your steering takes to respond and keep that "
+"figure up to date. Switch it off to pin the timing yourself."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:933
+#, python-brace-format
+msgid "Measured:"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:937
+#, python-brace-format
+msgid "Rack:"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:937
+#, python-brace-format
+msgid "Offset:"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:937
+#, python-brace-format
+msgid "Total:"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1008
+#, python-brace-format
+msgid "Speed Limit Control"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1180
+#, python-brace-format
+msgid "Crash Log"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1180
+#, python-brace-format
+msgid "View the error log for IQ.Pilot crashes."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1191
+#, python-brace-format
+msgid "Delete this log?"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1191
+#, python-brace-format
+msgid "Yes"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1191
+#, python-brace-format
+msgid "No"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1214
+msgid ""
+"Turns off over-the-air update checks entirely.<br><b>Reboot for this to take "
+"effect.</b>"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1217
+msgid ""
+"Put the device in Always Offroad, or shut the car down, before touching "
+"these."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1220
+msgid ""
+"Pick whether a ready update just waits for your go-ahead, or downloads and "
+"installs on its own."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1223
+msgid ""
+"Put the device in Always Offroad, or shut the car down, before changing how "
+"updates install."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1234
+msgid "Predownload Only"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1235
+msgid "Predownload + Preinstall"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1243
+#, python-brace-format
+msgid "Pause Updates"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1253
+#: iqpilot/ui/layouts/settings/iq_panels.py:1286
+#, python-brace-format
+msgid "Update Install Mode"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1263
+#, python-brace-format
+msgid "IQ.OS Version"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1276
+#, python-brace-format
+msgid "This needs a reboot to apply. Restart now?"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1391
+#: iqpilot/ui/layouts/settings/iq_panels.py:1595
+#, python-brace-format
+msgid "Keep Device Offroad"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1392
+#: iqpilot/ui/layouts/settings/iq_panels.py:1620
+#, python-brace-format
+msgid "Force On-Road (10 min)"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1395
+#, python-brace-format
+msgid "Offroad Shutdown Timer"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1396
+#, python-brace-format
+msgid ""
+"Powers the device down once it has sat this long with the engine off.\n"
+"(30h by default)"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1412
+#, python-brace-format
+msgid "Boot State"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1415
+#, python-brace-format
+msgid "Offroad"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1423
+#, python-brace-format
+msgid "Driver Camera Check"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1429
+#, python-brace-format
+msgid "Training Guide"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1435
+#, python-brace-format
+msgid "Upload While Driving"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1437
+#, python-brace-format
+msgid "Restore Defaults"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1448
+#, python-brace-format
+msgid "System"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1449
+#, python-brace-format
+msgid "Maintenance"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1509
+#, python-brace-format
+msgid "Default: comes up ready to drive, engagement available straight away."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1510
+#, python-brace-format
+msgid "Offroad: lands in Always Offroad every time it boots or wakes."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1511
+#, python-brace-format
+msgid ""
+"Sets which state the device settles into after a boot or a wake from sleep."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1526
+#, python-brace-format
+msgid "There's no undo once this runs — last chance to back out."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1531
+#, python-brace-format
+msgid ""
+"Are you sure you want to reset all IQ.Pilot settings to default? Once the "
+"settings are reset, there is no going back."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1542
+#, python-brace-format
+msgid "Leave Always Offroad mode now?"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1543
+#, python-brace-format
+msgid "Switch the device into Always Offroad mode?"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1556
+#, python-brace-format
+msgid "Disengage before forcing on-road"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1560
+#, python-brace-format
+msgid "Force On-Road can only be started while offroad"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1567
+#, python-brace-format
+msgid "Force On-Road is already active. Reset the timer to 10 minutes?"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1569
+#, python-brace-format
+msgid ""
+"Force IQ.Pilot on-road for 10 minutes? Always Offroad will be enabled "
+"automatically and it will return to offroad after the timer."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1581
+#, python-brace-format
+msgid "Never Sleep"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1581
+#, python-brace-format
+msgid "m"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1581
+#, python-brace-format
+msgid "h"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1582
+#, python-brace-format
+msgid " (Default)"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1595
+#, python-brace-format
+msgid "Exit Offroad Mode"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1617
+#, python-brace-format
+msgid "Forced On-Road Active"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1695
+#, python-brace-format
+msgid "Active Model"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1701
+#, python-brace-format
+msgid "Combined Model"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1702
+#, python-brace-format
+msgid "Vision Weights"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1703
+#, python-brace-format
+msgid "Policy Weights"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1705
+#, python-brace-format
+msgid "Reload Model List"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1708
+#, python-brace-format
+msgid "Purge Model Cache"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1710
+#, python-brace-format
+msgid "CLEAR"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1714
+#, python-brace-format
+msgid "Redownload Current Model"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1714
+#, python-brace-format
+msgid "REDOWNLOAD"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1715
+#, python-brace-format
+msgid "Stop Download"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1802
+#, python-brace-format
+msgid ""
+"This will delete ALL downloaded models from the cache except the currently "
+"active model. Are you sure?"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1803
+#, python-brace-format
+msgid "Clear Cache"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1853
+#, python-brace-format
+msgid "Clear the selected model cache and download it again?"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1854
+#, python-brace-format
+msgid "Redownload"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1906
+#, python-brace-format
+msgid "downloading"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1908
+#, python-brace-format
+msgid "from cache"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1909
+#, python-brace-format
+msgid "ready"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1920
+#, python-brace-format
+msgid ""
+"The selected model changed. We suggest resetting calibration. Would you like "
+"to do that now?"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:1965
+#, python-brace-format
+msgid "Choose a Model"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2010
+#, python-brace-format
+msgid "Reachable only with the car switched off or Always Offroad turned on."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2095
+msgid "Models"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2096
+msgid "Cruise"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2097
+msgid "Steering"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2098
+msgid "Visuals"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2099
+#: iqpilot/ui/layouts/settings/iq_panels.py:2538
+#, python-brace-format
+msgid "Vehicle"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2181
+#, python-brace-format
+msgid "Factory-default longitudinal tuning."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2182
+#, python-brace-format
+msgid "Dynamic tuning: livelier gas/brake response."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2183
+#, python-brace-format
+msgid "Predictive tuning: anticipates and smooths accel changes."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2192
+#, python-brace-format
+msgid "Longitudinal Tune Profile"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2193
+#, python-brace-format
+msgid "Dynamic"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2193
+#, python-brace-format
+msgid "Predictive"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2210
+#, python-brace-format
+msgid "Unavailable while the car is onroad."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2212
+#, python-brace-format
+msgid "Requires IQ.Pilot Longitudinal Control (Alpha) to be enabled."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2234
+#, python-brace-format
+msgid "Creep from Standstill (Beta)"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2237
+#, python-brace-format
+msgid "Creep from Standstill — Manual Handbrake (Beta)"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2250
+#, python-brace-format
+msgid "Not available on this Subaru platform."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2252
+#: iqpilot/ui/layouts/settings/iq_panels.py:2300
+#, python-brace-format
+msgid ""
+"Flip on Always Offroad from the Device panel, or power the car down, to "
+"change this."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2262
+#, python-brace-format
+msgid ""
+"Automatically resume from a stop while following traffic, on Subaru "
+"platforms where the beta implementation applies."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2265
+#, python-brace-format
+msgid ""
+"Stop-and-go variant for Subaru Global cars with a manual handbrake. Leave "
+"this off on cars with an electric parking brake. Thanks to martinl for this "
+"implementation!"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2289
+#, python-brace-format
+msgid "VTB (Virtual Torque Blending)"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2293
+#, python-brace-format
+msgid ""
+"Warning: steering may oscillate in turns below {}; turn this off if you feel "
+"it."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2296
+#, python-brace-format
+msgid ""
+"Lets you nudge the wheel while engaged without fully disengaging steering."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2297
+#, python-brace-format
+msgid "Active above {} only."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2313
+#, python-brace-format
+msgid "Keep Factory Gas and Brake"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2314
+#, python-brace-format
+msgid ""
+"Keeps gas and brakes with the factory Toyota system; IQ.Pilot steers only."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2348
+msgid ""
+"Use HCA Status 7 instead of Status 5 for steering control on PQ platform "
+"vehicles. This may help with compatibility on some older Volkswagen models."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2352
+msgid ""
+"Allow lateral control (steering) to remain active even when longitudinal "
+"control (gas/brake) is temporarily unavailable due to a cruise control fault."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2356
+msgid ""
+"Allow IQ.Pilot to use MQB ACC resume behavior on supported FtS with Extended "
+"Hold without Auto Resume Volkswagen MQB vehicles."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2359
+msgid ""
+"Enable MQB steering lockout handling on Volkswagen MQB vehicles with low "
+"speed LKAS faults."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2249
+msgid ""
+"Low-pass the planned curvature before it reaches the rack on MEB and MQB "
+"Evo vehicles, which damps lateral wobble. On by default for these cars."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2300
+#, python-brace-format
+msgid "Smooth Steering"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:84
+#, python-brace-format
+msgid "smooth steering"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2245
+msgid ""
+"Close the steering loop on MEB and MQB Evo vehicles. IQ.Pilot corrects its "
+"steering command against the curvature the car is actually holding, "
+"instead of sending the planned curvature straight through."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2288
+#, python-brace-format
+msgid "Curvature Controller"
+msgstr ""
+
+#: openpilot/selfdrive/ui/mici/layouts/settings/vehicle.py:83
+#, python-brace-format
+msgid "curvature controller"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2369
+#, python-brace-format
+msgid "PQ HCA Status 7 Mode"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2377
+#, python-brace-format
+msgid "Lateral Control When Cruise Faulted"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2385
+#, python-brace-format
+msgid "MQB ACC Resume"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2393
+#, python-brace-format
+msgid "MQB Steering Lockout"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2506
+#, python-brace-format
+msgid "No vehicle set"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2578
+#, python-brace-format
+msgid "Pick your vehicle"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2580
+#, python-brace-format
+msgid "Search make or model"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2581
+#, python-brace-format
+msgid "Find your vehicle"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2582
+#, python-brace-format
+msgid "Type a year then a model — for example, 2021 Toyota Corolla:"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2592
+#, python-brace-format
+msgid "Applies right away."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2593
+#, python-brace-format
+msgid "Applies the next time the device goes offroad."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2603
+#, python-brace-format
+msgid "Detected automatically"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2604
+#, python-brace-format
+msgid "Chosen manually"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2605
+#, python-brace-format
+msgid "Undetected and unset"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2622
+#, python-brace-format
+msgid "Pin a vehicle to skip auto-detection."
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2624
+#, python-brace-format
+msgid "Colour key for fingerprint state:"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2642
+#, python-brace-format
+msgid "AUTO"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2643
+#, python-brace-format
+msgid "MANUAL"
+msgstr ""
+
+#: iqpilot/ui/layouts/settings/iq_panels.py:2644
+#, python-brace-format
+msgid "NONE"
+msgstr ""

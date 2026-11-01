@@ -1,0 +1,18 @@
+[
+  "iqpilot.common.gpio",
+  "iqpilot.common.i2c",
+  "iqpilot.common.logging_extra",
+  "iqpilot.common.swaglog",
+  "iqpilot.common.time_helpers",
+  "iqpilot.common.utils",
+  "iqpilot.system.hardware",
+  "iqpilot.system.hardware.base",
+  "iqpilot.system.hardware.hw",
+  "iqpilot.system.hardware.pc.hardware",
+  "iqpilot.system.hardware.tici",
+  "iqpilot.system.hardware.tici.amplifier",
+  "iqpilot.system.hardware.tici.hardware",
+  "iqpilot.system.hardware.tici.iwlist",
+  "iqpilot.system.hardware.tici.lpa",
+  "iqpilot.system.hardware.tici.pins"
+]
